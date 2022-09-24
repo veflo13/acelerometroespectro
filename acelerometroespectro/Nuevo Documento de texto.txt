@@ -1,0 +1,92 @@
+% **************************************************************************************************
+%                             Flores Gutiérrez Verónica                                            *
+%         Las componentes Z, NS, EW, de los sismos del 19 de septiembre del 1985-2017-2022         *
+%***************************************************************************************************
+
+
+%**************************************************************************************
+%DATOS DEL SISMO:
+%FECHA DEL SISMO [GMT]                  : 1985/09/19
+%HORA EPICENTRO (GMT)                   : 13:17:42,6
+%MAGNITUD(ES)                           : /Mb=6.80/Ms=8.10/Mc=8.10
+%COORDENADAS DEL EPICENTRO              : 18.081 LAT. N
+%                                       : 102.942 LONG. W
+%PROFUNDIDAD FOCAL (km)                 : 15
+%FUENTES DE LOS DATOS EPICENTRALES      : INSTITUTO DE INGENIERIA,UNAM   
+%
+%
+%DATOS DE LA ESTACION:
+%NOMBRE DE LA ESTACION                  : SCT B-1
+%CLAVE DE LA ESTACION                   : SCT1
+%LOCALIZACION DE LA ESTACION            : Estacionamiento en el Edificio de SCT,
+%                                       : Av. Universidad entre Cumbres de 
+%                                       : Mexico, D.F.
+%
+%
+%
+%**************************************************************************************
+%DATOS DEL SISMO:
+%FECHA DEL SISMO [GMT]                  : 2017/09/19
+%HORA EPICENTRO (GMT)                   : 18:14:40
+%MAGNITUD(ES)                           : /M=7.1
+%COORDENADAS DEL EPICENTRO              : 18.3353 LAT. N
+%                                       : 98.6763 LONG. W
+%PROFUNDIDAD FOCAL (Km)                 : 38.5
+%FUENTE DE LOS DATOS EPICENTRALES       : SSN
+%                                       : INSTITUTO DE GEOFISICA, UNAM
+%De http://www.ssn.unam.mx, el 15/11/2018. Informacion sujeta a cambios
+%
+%DATOS DE LA ESTACION:
+%NOMBRE DE LA ESTACION                  : SCT B-2.
+%CLAVE DE LA ESTACION                   : SCT2
+%LOCALIZACION DE LA ESTACION            : ESTACIONAMIENTO EN EL EDIFICIO DE SCT, AVENIDA
+%                                       : UNIVERSIDAD ENTRE CUMBRES DE MALTRATA Y XOLA,
+%                                       : COL. NARVARTE, MEXICO D.F. 
+%                                       : 
+%                                       : 
+%COORDENADAS DE LA ESTACION             : 19.394694 LAT. N
+%                                       : 99.148678 LONG. W
+%ALTITUD (msnm)                         : 2240
+%TIPO DE SUELO                          : ARCILLA
+%                                       : 
+%                                       : 
+%INSTITUCION RESPONSABLE                : INSTITUTO DE INGENIERIA UNAM 
+
+
+%* ***********************************************************************************
+%*  2022  La Unidad de Instrumentación Sísmica del Instituto de Ingeniería de la UNAM   *
+%* hace público el registro de aceleraciones de la estación SCT2 del sismo:         *
+%*  Datos del sismo:19 de septiembre de 2022 Coalcomán, Michoacán, México (M7.7),   *
+%*  13:05:09 Hora del Centro de México, para los fines antes descritos.             *
+%“Los registros acelerográficos proporcionados han sido producto de las labores de instrumentación
+%y procesamiento de la Unidad de Instrumentación Sísmica del Instituto de Ingeniería de la UNAM”.
+%
+%================================================================================
+%DATOS DEL SISMO:
+%FECHA DEL SISMO [GMT]                  : 2022/09/19
+%HORA EPICENTRO (GMT)                   : 18:05:09
+%MAGNITUD(ES)                           : /M=7.7
+%COORDENADAS DEL EPICENTRO              : 18.22 LAT. N
+%                                       : 103.29 LONG. W
+%PROFUNDIDAD FOCAL (Km)                 : 15
+%FUENTE DE LOS DATOS EPICENTRALES       : SSN
+%                                       : INSTITUTO DE GEOFISICA, UNAM                                      
+%DATOS DE LA ESTACION:                  19/09/2022
+%NOMBRE DE LA ESTACION                  : SCT B-2.
+%CLAVE DE LA ESTACION                   : SCT2
+%LOCALIZACION DE LA ESTACION            : ESTACIONAMIENTO EN EL EDIFICIO DE SCT, A
+%                                       : VENIDA UNIVERSIDAD ENTRE CUMBRES DE MALT
+%                                       : RATA Y XOLA, COL. NARVARTE, MEXICO D.F.
+
+
+
+
+%vsct85=[]vertical /orientación /año 
+%vsct17=[] 
+%vsct22=[]
+%nssct85=[]
+%nssct17=[]
+%nssct22=[]
+%ewsct85[]
+%ewsct17[]
+%ewsct22[]
